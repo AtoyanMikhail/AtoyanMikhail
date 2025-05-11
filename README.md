@@ -1,13 +1,41 @@
-<h1 align="center">Hi 👋, I'm Mikhail</h1>
-<h3 align="center">A passionate golang developer from Russia</h3>
+<h1>Hello, world!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"></h1> 
 
-- 📫 How to reach me **mikhail.atoyan@gmail.com**
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+[![Gmail Badge](https://img.shields.io/badge/-mikhail.atoyan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mikhail.atoyan@gmail.com)](mailto:mikhail.atoyan@gmail.com) ![Telegram Badge](https://img.shields.io/badge/-MihailAtoyan-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/MihailAtoyan)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
+<div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't.. </div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=atoyanmikhail&show_icons=true&locale=en&layout=compact" alt="atoyanmikhail" /></p>
+## Tech Stack
+
+I mostly work with **Go**, sometimes offcoding in **python**.
+
+![GoLang](https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apache-kafka&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+
+ ## Who am I?
+ ```python
+class WhoAmI:
+  user = 'Atoyan Mikhail'
+  current_work = 'Getting a CS major'
+  hobbies = [
+    'Playing guitar',
+    'Martial arts',
+    'Reading manga'
+    'Being up all night chasing that ONE BUG...'
+  ]
+  city = "Saint Petersburg"
+  
+  def Ambitions():
+    LearnGerman()
+    FixMySleepSchedule()
+    GetAnInternship()
+
+ ```
+ 
+ 
+ 
