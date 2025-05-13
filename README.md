@@ -2,7 +2,7 @@
 
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
-[![Gmail Badge](https://img.shields.io/badge/-mikhail.atoyan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mikhail.atoyan@gmail.com)](mailto:mikhail.atoyan@gmail.com) ![Telegram Badge](https://img.shields.io/badge/-MihailAtoyan-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/MihailAtoyan)
+[![Gmail Badge](https://img.shields.io/badge/-mikhail.atoyan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mikhail.atoyan@gmail.com)](mailto:mikhail.atoyan@gmail.com) ![Telegram Badge](https://img.shields.io/badge/-AtoyanMikhail-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/AtoyanMikhail)
 
 <div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't.. </div>
 
